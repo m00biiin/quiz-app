@@ -4,16 +4,6 @@ A small multiple-choice quiz app built with React. Answer five questions about J
 
 I built it as a practice project to work with React Router, Context API and responsive CSS.
 
-<!-- Add screenshots here, e.g.:
-![Start page](screenshots/start.png)
-![Quiz page](screenshots/quiz.png)
-![Result page](screenshots/result.png)
--->
-
-<!-- Add the live demo link here after deploying:
-**Live demo:** https://your-demo-link
--->
-
 ## Features
 
 - **Quiz flow:** pick one option per question, and click it again to unselect it.
@@ -117,4 +107,4 @@ Every `id` must be unique. The start page, progress indicator and result page pi
 
 ## Author
 
-**Mobin Akbari**: [GitHub](https://github.com/m00biiin)
+**Mobin Akbari**: [GitHub](https://github.com/m00biiin) [Linkedin](https://www.linkedin.com/in/mobinakbari/)
