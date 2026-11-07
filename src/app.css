@@ -1,10 +1,10 @@
 @font-face {
   font-family: jakarta;
-  src: url("fonts/PlusJakartaSans-Regular.ttf");
+  src: url("/fonts/PlusJakartaSans-Regular.ttf") format("truetype"); 
 }
 @font-face {
   font-family: jakarta-semibold;
-  src: url("fonts/PlusJakartaSans-SemiBold.ttf");
+  src: url("/fonts/PlusJakartaSans-SemiBold.ttf") format("truetype");
 }
 
 * {
