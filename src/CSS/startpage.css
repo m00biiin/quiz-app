@@ -1,0 +1,52 @@
+.icon {
+  width: 60px;
+  height: 60px;
+
+  border-radius: 24px;
+  background-color: var(--color-primary);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon svg {
+  font-size: 24px;
+}
+
+.datas span {
+  background-color: var(--color-primary);
+
+  padding: 8px;
+
+  border-radius: 16px;
+
+  flex-shrink: 1;
+  flex-basis: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.datas {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+
+  width: 100%;
+}
+
+#start-navigate {
+  background-color: var(--color-success);
+  border-color: var(--color-success);
+
+  padding: 12px 48px;
+}
+
+@media (max-width: 640px) {
+  .datas {
+    gap: 12px;
+  }
+}
